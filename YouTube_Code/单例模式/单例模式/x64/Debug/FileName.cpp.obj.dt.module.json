@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "单例模式\\x64\\Debug\\FileName.obj",
+            "outputs": [
+                "单例模式\\x64\\Debug\\FileName.cpp.obj.dt.module.json",
+                "单例模式\\x64\\Debug\\FileName.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

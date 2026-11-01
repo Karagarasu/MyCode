@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "演讲比赛程序\\x64\\Debug\\speechManager.obj",
+            "outputs": [
+                "演讲比赛程序\\x64\\Debug\\speechManager.cpp.obj.dt.module.json",
+                "演讲比赛程序\\x64\\Debug\\speechManager.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

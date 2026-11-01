@@ -1,0 +1,6 @@
+﻿  stl案例-员工分组.cpp
+D:\代码\VSxiangmu\案例-员工分组\stl案例-员工分组.cpp(50,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\VSxiangmu\案例-员工分组\stl案例-员工分组.cpp(59,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\VSxiangmu\案例-员工分组\stl案例-员工分组.cpp(67,4): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\代码\VSxiangmu\案例-员工分组\stl案例-员工分组.cpp(68,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  案例-员工分组.vcxproj -> D:\代码\VSxiangmu\案例-员工分组\x64\Debug\案例-员工分组.exe

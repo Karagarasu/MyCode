@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "wallpeper_engine\\x64\\Debug\\FileName.obj",
+            "outputs": [
+                "wallpeper_engine\\x64\\Debug\\FileName.cpp.obj.dt.module.json",
+                "wallpeper_engine\\x64\\Debug\\FileName.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

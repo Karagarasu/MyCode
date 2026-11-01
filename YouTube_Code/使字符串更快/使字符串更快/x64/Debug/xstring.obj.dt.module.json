@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "使字符串更快\\x64\\Debug\\xstring.obj",
+            "outputs": [
+                "使字符串更快\\x64\\Debug\\xstring.obj.dt.module.json",
+                "使字符串更快\\x64\\Debug\\xstring.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

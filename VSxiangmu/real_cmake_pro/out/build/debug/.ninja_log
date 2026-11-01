@@ -1,0 +1,19 @@
+# ninja log v7
+23	289	8078169831102714	real_cmake_pro_autogen/timestamp	99f17eb575144c6d
+23	289	8078169831102714	real_cmake_pro_autogen/mocs_compilation.cpp	99f17eb575144c6d
+23	289	8078169831102714	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/real_cmake_pro_autogen/timestamp	99f17eb575144c6d
+23	289	8078169831102714	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/real_cmake_pro_autogen/mocs_compilation.cpp	99f17eb575144c6d
+290	2265	8078169833785020	CMakeFiles/real_cmake_pro.dir/main.cpp.obj	2e795746c0b586b8
+501	2399	8078168408509634	CMakeFiles/real_cmake_pro.dir/Maye.cpp.obj	71adb082945a142a
+478	2403	8078168408284881	CMakeFiles/real_cmake_pro.dir/real_cmake_pro_autogen/mocs_compilation.cpp.obj	5b87430e501dbeda
+2268	2579	8078169853562173	real_cmake_pro.exe	fb05a3c7bf164e26
+10	675	8078172345681935	build.ninja	d544abe8a47e7632
+10	675	8078172345587404	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/cmake_install.cmake	d544abe8a47e7632
+10	721	8078172345681935	build.ninja	d544abe8a47e7632
+10	721	8078172345681935	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/cmake_install.cmake	d544abe8a47e7632
+37	318	8078172347742930	real_cmake_pro_autogen/timestamp	99f17eb575144c6d
+37	318	8078172347742930	real_cmake_pro_autogen/mocs_compilation.cpp	99f17eb575144c6d
+37	318	8078172347742930	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/real_cmake_pro_autogen/timestamp	99f17eb575144c6d
+37	318	8078172347742930	D:/代码/VSxiangmu/real_cmake_pro/out/build/debug/real_cmake_pro_autogen/mocs_compilation.cpp	99f17eb575144c6d
+320	2211	8078172350569053	CMakeFiles/real_cmake_pro.dir/main.cpp.obj	2e795746c0b586b8
+2212	2479	8078172369490725	real_cmake_pro.exe	fb05a3c7bf164e26

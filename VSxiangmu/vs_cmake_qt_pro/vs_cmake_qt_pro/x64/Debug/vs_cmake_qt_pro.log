@@ -1,0 +1,12 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (D:/qt/6.8.3/msvc2022_64/bin/qmake)
+   Qt: 6.8.3
+  uic ILoveYou.ui
+  rcc ILoveYou.qrc
+  moc ILoveYou.h
+   RCC: Warning: No resources in 'D:\代码\VSxiangmu\vs_cmake_qt_pro\ILoveYou.qrc'.
+  ILoveYou.cpp
+  main.cpp
+  qrc_ILoveYou.cpp
+  moc_ILoveYou.cpp
+  vs_cmake_qt_pro.vcxproj -> D:\代码\VSxiangmu\vs_cmake_qt_pro\x64\Debug\vs_cmake_qt_pro.exe

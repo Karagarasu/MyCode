@@ -1,0 +1,7 @@
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\SDL2.dll
+D:\代码\VSxiangmu\wallpeper_engine\wallpeper_engine\x64\Release\wallpepe.6296C3CD.Up2Date
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\avutil-60.dll
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\avcodec-62.dll
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\swresample-6.dll
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\avformat-62.dll
+D:\代码\VSxiangmu\wallpeper_engine\x64\Release\swscale-9.dll

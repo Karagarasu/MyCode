@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main() {
+	//利用嵌套循环实现星图
+	//打印一行星图
+	//外层执行一次，内层执行一周
+	for (int b = 0; b < 10; b++)//外层循环
+	{
+		for (int i = 0; i < 10; i++)//内存循环
+		{
+			cout << "* ";
+		}
+		cout << "\n";
+	}
+	system("pause");
+	return 0;
+}

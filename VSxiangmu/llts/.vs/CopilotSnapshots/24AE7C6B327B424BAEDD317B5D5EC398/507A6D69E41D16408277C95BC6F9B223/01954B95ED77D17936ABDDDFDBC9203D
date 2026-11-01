@@ -1,0 +1,161 @@
+﻿#ifndef _WIN32_WINNT
+#define _WIN32_WINNT 0x0A00  // Windows 10/11
+#endif
+
+#include <windows.h>
+#include <mfapi.h>
+#include <mfidl.h>
+#include <mfreadwrite.h>
+#include <mfmediaengine.h>
+#include <Shlwapi.h>
+#include <string>
+#include <mferror.h>
+#include <comdef.h>
+
+using namespace std;
+
+#pragma comment(lib, "mf.lib")
+#pragma comment(lib, "mfplat.lib")
+#pragma comment(lib, "mfreadwrite.lib")
+#pragma comment(lib, "mfmediaengine.lib")
+#pragma comment(lib, "shlwapi.lib")
+
+// 全局播放器对象
+IMFMediaEngine* g_pEngine = nullptr;
+BOOL 播放完成标记 = FALSE;
+
+// ==============================
+// 获取程序 exe 所在的目录（绝对路径）
+// ==============================
+wstring 获取程序所在目录()
+{
+    WCHAR 程序全路径[MAX_PATH] = { 0 };
+    GetModuleFileNameW(NULL, 程序全路径, MAX_PATH);
+    PathRemoveFileSpecW(程序全路径);
+    return wstring(程序全路径) + L"\\";
+}
+
+// ==============================
+// 创建：全屏、置顶、无边框窗口
+// ==============================
+HWND 创建全屏置顶窗口()
+{
+    WNDCLASSEX 窗口类 = { 0 };
+    窗口类.cbSize = sizeof(窗口类);
+    窗口类.lpfnWndProc = DefWindowProcW;
+    窗口类.hInstance = GetModuleHandleW(NULL);
+    窗口类.lpszClassName = L"自定义视频窗口";
+    RegisterClassExW(&窗口类);
+
+    int 屏幕宽度 = GetSystemMetrics(SM_CXSCREEN);
+    int 屏幕高度 = GetSystemMetrics(SM_CYSCREEN);
+
+    HWND 窗口句柄 = CreateWindowExW(
+        WS_EX_TOPMOST,
+        L"自定义视频窗口",
+        L"",
+        WS_POPUP | WS_VISIBLE,
+        0, 0,
+        屏幕宽度, 屏幕高度,
+        NULL, NULL, 窗口类.hInstance, NULL
+    );
+    SetWindowPos(窗口句柄, HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
+    SetForegroundWindow(窗口句柄);
+    return 窗口句柄;
+}
+
+// ==============================
+// MediaEngine事件回调
+// ==============================
+class MediaEngineNotify : public IMFMediaEngineNotify {
+public:
+    ULONG STDMETHODCALLTYPE AddRef() { return 1; }
+    ULONG STDMETHODCALLTYPE Release() { return 1; }
+    HRESULT STDMETHODCALLTYPE QueryInterface(REFIID riid, void** ppv) {
+        if (riid == IID_IUnknown || riid == IID_IMFMediaEngineNotify) {
+            *ppv = this;
+            return S_OK;
+        }
+        *ppv = nullptr;
+        return E_NOINTERFACE;
+    }
+    HRESULT STDMETHODCALLTYPE EventNotify(DWORD event, DWORD, LONG_PTR) {
+        if (event == MF_MEDIA_ENGINE_EVENT_ENDED) {
+            播放完成标记 = TRUE;
+        }
+        return S_OK;
+    }
+};
+
+// ==============================
+// 主函数：程序入口
+// ==============================
+int WINAPI WinMain(HINSTANCE hInst, HINSTANCE, LPSTR, int)
+{
+    MFStartup(MF_VERSION);
+    HWND 主窗口 = 创建全屏置顶窗口();
+
+    wstring 程序目录 = 获取程序所在目录();
+    wstring 视频路径 = 程序目录 + L"llts.mp4";
+
+    IMFMediaEngineClassFactory* pFactory = nullptr;
+    HRESULT hr = CoCreateInstance(CLSID_MFMediaEngineClassFactory, NULL, CLSCTX_INPROC_SERVER, IID_IMFMediaEngineClassFactory, (void**)&pFactory);
+    if (FAILED(hr) || !pFactory) {
+        MessageBoxW(NULL, L"无法创建MediaEngine工厂", L"错误", MB_ICONERROR);
+        return -1;
+    }
+
+    MediaEngineNotify* pNotify = new MediaEngineNotify();
+    IMFAttributes* pAttributes = nullptr;
+    hr = MFCreateAttributes(&pAttributes, 1);
+    if (FAILED(hr) || !pAttributes) {
+        MessageBoxW(NULL, L"无法创建属性对象", L"错误", MB_ICONERROR);
+        pFactory->Release();
+        return -1;
+    }
+    // 正确设置属性
+    hr = pAttributes->SetUnknown(MF_MEDIA_ENGINE_NOTIFY, пNotify);
+    if (FAILED(hr)) {
+        MessageBoxW(NULL, L"无法设置回调属性", L"错误", MB_ICONERROR);
+        pAttributes->Release();
+        pFactory->Release();
+        return -1;
+    }
+
+    hr = pFactory->CreateInstance(0, pAttributes, &g_pEngine);
+    pAttributes->Release();
+    pFactory->Release();
+    if (FAILED(hr) || !g_pEngine) {
+        MessageBoxW(NULL, L"无法创建MediaEngine实例", L"错误", MB_ICONERROR);
+        return -1;
+    }
+
+    // 加载视频
+    BSTR bstrUrl = SysAllocString(视频路径.c_str());
+    hr = g_pEngine->SetSource(bstrUrl);
+    SysFreeString(bstrUrl);
+    if (FAILED(hr)) {
+        MessageBoxW(NULL, L"无法加载视频文件", L"错误", MB_ICONERROR);
+        g_pEngine->Release();
+        MFShutdown();
+        DestroyWindow(主窗口);
+        return -1;
+    }
+    g_pEngine->Play();
+
+    MSG 消息;
+    while (播放完成标记 == FALSE)
+    {
+        if (PeekMessageW(&消息, NULL, 0, 0, PM_REMOVE))
+        {
+            DispatchMessageW(&消息);
+        }
+        Sleep(10);
+    }
+
+    g_pEngine->Shutdown();
+    g_pEngine->Release();
+    MFShutdown();
+    DestroyWindow(主窗口);
+    return 0;
+}

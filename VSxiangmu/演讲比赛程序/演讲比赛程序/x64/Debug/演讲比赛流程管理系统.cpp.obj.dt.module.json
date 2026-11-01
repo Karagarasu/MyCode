@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "演讲比赛程序\\x64\\Debug\\演讲比赛流程管理系统.obj",
+            "outputs": [
+                "演讲比赛程序\\x64\\Debug\\演讲比赛流程管理系统.cpp.obj.dt.module.json",
+                "演讲比赛程序\\x64\\Debug\\演讲比赛流程管理系统.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+﻿  实现.cpp
+D:\代码\VSxiangmu\播放音频\miniaudio.h(80532,82): warning C4244: “=”: 从“ma_uint64”转换到“ma_uint32”，可能丢失数据
+  (编译源文件“实现.cpp”)
+  
+  播放音频.vcxproj -> D:\代码\VSxiangmu\播放音频\x64\Debug\播放音频.exe

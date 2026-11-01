@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSxiangmu\\\u6848\u4F8B\u8BC4\u59D4\u6253\u5206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C01CCC-E5A4-4C6F-B5F9-66FD1203CEEF}|\u6848\u4F8B\u8BC4\u59D4\u6253\u5206.vcxproj|D:\\VSxiangmu\\\u6848\u4F8B\u8BC4\u59D4\u6253\u5206\\STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90C01CCC-E5A4-4C6F-B5F9-66FD1203CEEF}|\u6848\u4F8B\u8BC4\u59D4\u6253\u5206.vcxproj|solutionrelative:STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\\u6848\u4F8B\u8BC4\u59D4\u6253\u5206\\STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp",
+              "RelativeDocumentMoniker": "STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp",
+              "ToolTip": "D:\\VSxiangmu\\\u6848\u4F8B\u8BC4\u59D4\u6253\u5206\\STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp",
+              "RelativeToolTip": "STL\u6848\u4F8B-\u8BC4\u59D4\u6253\u5206.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T08:13:31.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

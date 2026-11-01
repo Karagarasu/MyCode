@@ -1,0 +1,12 @@
+﻿  实现.cpp
+D:\代码\小工具\smart_shutdown\实现.cpp(8,6): warning C4273: “ForcePowerOff”: dll 链接不一致
+  (编译源文件“/实现.cpp”)
+      D:\代码\小工具\smart_shutdown\声明.h(17,27):
+      参见“ForcePowerOff”的前一个定义
+  
+    正在创建库 D:\代码\小工具\smart_shutdown\x64\Release\smart_shutdown.lib 和对象 D:\代码\小工具\smart_shutdown\x64\Release\smart_shutdown.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  smart_shutdown.vcxproj -> D:\代码\小工具\smart_shutdown\x64\Release\smart_shutdown.dll

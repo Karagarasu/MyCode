@@ -1,0 +1,69 @@
+﻿#pragma comment(lib, "ntdll.lib")
+#pragma comment(lib, "advapi32.lib")
+#include <windows.h>
+#include <winternl.h>
+#include <iostream>
+
+// 已由 <winternl.h> 声明，移除手动重复声明
+
+enum class SHUTDOWN_ACTION : ULONG {
+    ShutdownNoReboot = 0,
+    ShutdownReboot = 1,
+    ShutdownPowerOff = 2
+};
+
+using PFN_NtShutdownSystem = NTSTATUS(NTAPI*)(SHUTDOWN_ACTION Action);
+
+BOOL ForcePowerOff()
+{
+    // 1. 获取并提升 SeShutdownPrivilege
+    HANDLE hToken;
+    if (!OpenProcessToken(GetCurrentProcess(), TOKEN_ADJUST_PRIVILEGES | TOKEN_QUERY, &hToken))
+        return FALSE;
+
+    TOKEN_PRIVILEGES tp = { 0 };
+    tp.PrivilegeCount = 1;
+    tp.Privileges[0].Attributes = SE_PRIVILEGE_ENABLED;
+
+    if (!LookupPrivilegeValueW(NULL, SE_SHUTDOWN_NAME, &tp.Privileges[0].Luid))
+    {
+        CloseHandle(hToken);
+        return FALSE;
+    }
+
+    if (!AdjustTokenPrivileges(hToken, FALSE, &tp, sizeof(tp), NULL, NULL) ||
+        GetLastError() == ERROR_NOT_ALL_ASSIGNED)
+    {
+        CloseHandle(hToken);
+        return FALSE;
+    }
+    CloseHandle(hToken);
+
+    // 2. 动态加载 NtShutdownSystem
+    HMODULE hNtdll = GetModuleHandleW(L"ntdll.dll");
+    auto pfnShutdown = reinterpret_cast<PFN_NtShutdownSystem>(
+        GetProcAddress(hNtdll, "NtShutdownSystem")
+        );
+    if (!pfnShutdown)
+        return FALSE;
+
+    // 3. 执行断电关机
+    NTSTATUS status = pfnShutdown(SHUTDOWN_ACTION::ShutdownPowerOff);
+
+    // 成功则系统已断电，不会执行到这里
+    if (status == 0) // STATUS_SUCCESS
+        return TRUE;
+
+    SetLastError(RtlNtStatusToDosError(status));
+    return FALSE;
+}
+
+int main()
+{
+    if (!ForcePowerOff())
+    {
+        std::cout << "关机失败，错误码: " << GetLastError() << std::endl;
+    }
+    system("pause");
+    return -1;
+}

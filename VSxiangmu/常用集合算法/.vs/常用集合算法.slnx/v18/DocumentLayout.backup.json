@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\\VSxiangmu\\\u5E38\u7528\u96C6\u5408\u7B97\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA942DD-A2F0-4A98-9F70-AEED52C0999A}|\u5E38\u7528\u96C6\u5408\u7B97\u6CD5.vcxproj|D:\\\u4EE3\u7801\\VSxiangmu\\\u5E38\u7528\u96C6\u5408\u7B97\u6CD5\\set_difference\u5DEE\u96C6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EA942DD-A2F0-4A98-9F70-AEED52C0999A}|\u5E38\u7528\u96C6\u5408\u7B97\u6CD5.vcxproj|solutionrelative:set_difference\u5DEE\u96C6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "set_difference\u5DEE\u96C6.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\VSxiangmu\\\u5E38\u7528\u96C6\u5408\u7B97\u6CD5\\set_difference\u5DEE\u96C6.cpp",
+              "RelativeDocumentMoniker": "set_difference\u5DEE\u96C6.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\VSxiangmu\\\u5E38\u7528\u96C6\u5408\u7B97\u6CD5\\set_difference\u5DEE\u96C6.cpp",
+              "RelativeToolTip": "set_difference\u5DEE\u96C6.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-22T08:40:15.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

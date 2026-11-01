@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="播放音频dll.vcxproj" Id="9dcd9c0f-642f-4adb-b296-384c8591c5c7" />
+</Solution>

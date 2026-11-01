@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSxiangmu\\\u591A\u6001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7017A655-AED8-4697-BF51-12CFE1E084F2}|\u591A\u6001.vcxproj|D:\\VSxiangmu\\\u591A\u6001\\06 \u7EC4\u88C5\u7535\u8111.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7017A655-AED8-4697-BF51-12CFE1E084F2}|\u591A\u6001.vcxproj|solutionrelative:06 \u7EC4\u88C5\u7535\u8111.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7017A655-AED8-4697-BF51-12CFE1E084F2}|\u591A\u6001.vcxproj|D:\\VSxiangmu\\\u591A\u6001\\05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7017A655-AED8-4697-BF51-12CFE1E084F2}|\u591A\u6001.vcxproj|solutionrelative:05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\\u591A\u6001\\05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp",
+              "RelativeDocumentMoniker": "05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp",
+              "ToolTip": "D:\\VSxiangmu\\\u591A\u6001\\05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp",
+              "RelativeToolTip": "05 \u865A\u6790\u6784\u548C\u7EAF\u865A\u6790\u6784.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T09:32:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06 \u7EC4\u88C5\u7535\u8111.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\\u591A\u6001\\06 \u7EC4\u88C5\u7535\u8111.cpp",
+              "RelativeDocumentMoniker": "06 \u7EC4\u88C5\u7535\u8111.cpp",
+              "ToolTip": "D:\\VSxiangmu\\\u591A\u6001\\06 \u7EC4\u88C5\u7535\u8111.cpp",
+              "RelativeToolTip": "06 \u7EC4\u88C5\u7535\u8111.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv2wAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T08:26:34.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

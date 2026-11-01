@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="常用排序算法.vcxproj" Id="b5ca3835-cbb7-4404-b71f-8eb3b5ba9779" />
+</Solution>

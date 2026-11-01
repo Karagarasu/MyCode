@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|solutionrelative:Wallpaper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|solutionrelative:Wallpaper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55BAEFC1-EA64-46DE-993D-77A2F972BDF2}|wallpeper_engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wallpaper.hpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.hpp",
+              "RelativeDocumentMoniker": "Wallpaper.hpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.hpp",
+              "RelativeToolTip": "Wallpaper.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-21T11:18:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wallpaper.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.cpp",
+              "RelativeDocumentMoniker": "Wallpaper.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\Wallpaper.cpp",
+              "RelativeToolTip": "Wallpaper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-21T11:16:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\\u4EE3\u7801\\VSxiangmu\\wallpeper_engine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-21T11:09:39.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

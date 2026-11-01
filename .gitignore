@@ -1,0 +1,110 @@
+# =====================================================================
+# 1. 绝对封杀的文件夹
+# =====================================================================
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+
+.idea/
+.vs/
+.vscode/
+
+Debug/
+Release/
+x64/
+x86/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# =====================================================================
+# 2. 绝对排除的垃圾/编译文件
+# =====================================================================
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.db
+*.opendb
+*.VC.db
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.tlog
+*.lastbuildstate
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.o
+*.out
+
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info
+.eggs
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.bak
+*~
+
+# =====================================================================
+# 3. 白名单模式（终极绝杀版）
+# =====================================================================
+# 忽略根目录下的所有文件
+/*
+# 但必须允许 Git 进入所有子文件夹
+!*/
+# 然后放行所有需要的代码文件（无论在哪一层目录）
+!*.c
+!*.cpp
+!*.cc
+!*.cxx
+!*.h
+!*.hpp
+!*.hxx
+!*.inl
+!*.ipp
+!*.tpp
+
+!*.py
+!*.pyi
+!*.pyx
+!*.ipynb
+
+!CMakeLists.txt
+!*.cmake
+!Makefile
+!*.mk
+!requirements.txt
+!pyproject.toml
+!setup.py
+!setup.cfg
+!*.toml
+!*.yaml
+!*.yml
+!*.ini
+!*.cfg
+
+!*.md
+!*.txt
+!*.json
+!*.xml
+!*.csv
+!.gitignore

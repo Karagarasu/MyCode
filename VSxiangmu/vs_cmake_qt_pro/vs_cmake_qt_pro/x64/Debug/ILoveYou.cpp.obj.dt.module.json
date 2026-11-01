@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "vs_cmake_qt_pro\\x64\\Debug\\ILoveYou.obj",
+            "outputs": [
+                "vs_cmake_qt_pro\\x64\\Debug\\ILoveYou.cpp.obj.dt.module.json",
+                "vs_cmake_qt_pro\\x64\\Debug\\ILoveYou.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

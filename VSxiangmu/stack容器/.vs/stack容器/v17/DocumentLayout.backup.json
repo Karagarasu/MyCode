@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSxiangmu\\stack\u5BB9\u5668\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C19A55-A3A9-4200-9F45-541D42416BF4}|stack\u5BB9\u5668.vcxproj|D:\\VSxiangmu\\stack\u5BB9\u5668\\stack\u5E38\u7528\u63A5\u53E3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76C19A55-A3A9-4200-9F45-541D42416BF4}|stack\u5BB9\u5668.vcxproj|solutionrelative:stack\u5E38\u7528\u63A5\u53E3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack\u5E38\u7528\u63A5\u53E3.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\stack\u5BB9\u5668\\stack\u5E38\u7528\u63A5\u53E3.cpp",
+              "RelativeDocumentMoniker": "stack\u5E38\u7528\u63A5\u53E3.cpp",
+              "ToolTip": "D:\\VSxiangmu\\stack\u5BB9\u5668\\stack\u5E38\u7528\u63A5\u53E3.cpp",
+              "RelativeToolTip": "stack\u5E38\u7528\u63A5\u53E3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T03:00:21.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9509F1DB-5681-4D66-AAD9-D669C1E565FB}|set\u548Cmultiset\u5BB9\u5668.vcxproj|D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9509F1DB-5681-4D66-AAD9-D669C1E565FB}|set\u548Cmultiset\u5BB9\u5668.vcxproj|solutionrelative:set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9509F1DB-5681-4D66-AAD9-D669C1E565FB}|set\u548Cmultiset\u5BB9\u5668.vcxproj|D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\pair\u5BF9\u7EC4\u521B\u5EFA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9509F1DB-5681-4D66-AAD9-D669C1E565FB}|set\u548Cmultiset\u5BB9\u5668.vcxproj|solutionrelative:pair\u5BF9\u7EC4\u521B\u5EFA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "RelativeDocumentMoniker": "pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "ToolTip": "D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "RelativeToolTip": "pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T06:45:46.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp",
+              "RelativeDocumentMoniker": "set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp",
+              "ToolTip": "D:\\VSxiangmu\\set\u548Cmultiset\u5BB9\u5668\\set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp",
+              "RelativeToolTip": "set\u5BB9\u5668\u6392\u5E8F\uFF08\u81EA\u5B9A\u4E49\u6570\u636E\u7C7B\u578B\uFF09.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T06:32:41.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

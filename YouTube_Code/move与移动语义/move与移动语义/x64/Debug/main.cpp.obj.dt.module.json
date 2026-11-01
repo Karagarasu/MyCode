@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "move与移动语义\\x64\\Debug\\main.obj",
+            "outputs": [
+                "move与移动语义\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "move与移动语义\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\代码\YouTube_Code\move与移动语义\main.cpp(9,18): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  move与移动语义.vcxproj -> D:\代码\YouTube_Code\move与移动语义\x64\Debug\move与移动语义.exe

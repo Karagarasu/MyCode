@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c1b3c37-7e45-4faf-ba1c-1965ea229e54" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/datetime.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/章节11/实战1/实战一.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/章节12/示例12-5UDP的发送方.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/章节12/示例12-7客服人员.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/章节12/示例12-8客户咨询.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../python/Lib/site-packages/yt_dlp/YoutubeDL.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../python/Lib/site-packages/yt_dlp/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../python/Lib/typing.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="100" />
+      <option value="200" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2n5verBfnTjcrbTuF53ssQFVXKt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CPP转py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cunchu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cutdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eyi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.youtube.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实例10-2模块的导入.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实例10-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实例10-7包的导入.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实战一.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实战三.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实战二.executor&quot;: &quot;Run&quot;,
+    &quot;Python.实战四.executor&quot;: &quot;Run&quot;,
+    &quot;Python.抖音.executor&quot;: &quot;Run&quot;,
+    &quot;Python.拜年.executor&quot;: &quot;Run&quot;,
+    &quot;Python.拜年2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.演示 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.演示.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-11random模块的使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-12time模块的使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-13datetime类的使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-14timedelta类的使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-15爬取景区的天气预报.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-16爬取百度LOGO图片.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-18将爬取的景区天气数据存储到excel中.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-19从Excel文件中读取数据.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-21图像的灰度处理.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-22Pandas与Matplotlib绘制饼图.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-23基本饼图.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-24PIL模块-图像的颜色交换.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例10-24从pdf文件中提取数据.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-10os.path模块的使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-1文件的读写操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-2文件的写入操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-3文件的读取操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-4文件的复制.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-5with语句.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-6一维数据和二维数据存储.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-7高维数据的存储.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-8os模块使用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例11-9os模块高级操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例12-1服务器端代码编写.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例12-3多次通讯服务器端的代码.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.示例12-5UDP的发送方.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例12-7客服人员.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例12-8客户咨询.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-10设置put方法参数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-11使用队列进程间通信.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-12函数方式创建线程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-13使用Thread子类创建线程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-14线程之间的数据是否共享.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-15线程共享数据所带来的安全性问题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-16使用lock锁.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-17使用队列实现生产者和消费者问题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-1使用multiprocessing模块创建进程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-2Process类中常用的属性和方法.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-3Process类中常用的属性和方法2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-4使用Process子类创建进程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-5使用进程池-非阻塞式方式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-6使用进程池-阻塞方式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-7多个进程间数据是否共享.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.示例13-9向已满队列中添加元素.executor&quot;: &quot;Run&quot;,
+    &quot;Python.结束.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pycharm/项目/pythonProject/章节14&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm\项目\pythonProject\章节14" />
+      <recent name="D:\pycharm\项目\pythonProject\自己测试" />
+      <recent name="D:\pycharm\项目\pythonProject\章节11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm\项目\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CPP转py">
+    <configuration name="抖音" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自己测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自己测试/抖音.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CPP转py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自己测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自己测试/CPP转py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="抖音" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自己测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自己测试/抖音.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/章节14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/章节14/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/章节14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/章节14/client2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/章节14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/章节14/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CPP转py" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.client2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8c1b3c37-7e45-4faf-ba1c-1965ea229e54" name="更改" comment="" />
+      <created>1728275850239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728275850239</updated>
+    </task>
+    <servers />
+  </component>
+</project>

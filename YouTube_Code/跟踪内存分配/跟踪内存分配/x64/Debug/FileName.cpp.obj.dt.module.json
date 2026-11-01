@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "跟踪内存分配\\x64\\Debug\\FileName.obj",
+            "outputs": [
+                "跟踪内存分配\\x64\\Debug\\FileName.cpp.obj.dt.module.json",
+                "跟踪内存分配\\x64\\Debug\\FileName.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

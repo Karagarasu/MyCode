@@ -1,0 +1,53 @@
+﻿  01全局区.cpp
+  01函数默认参数.cpp
+  01封装的意义.cpp
+  06构造函数和析构函数.cpp
+  02封装案例.cpp
+  02函数占位参数.cpp
+  02栈区.cpp
+  03函数重载.cpp
+  03堆区.cpp
+  04new操作符.cpp
+  03struct和class的区别.cpp
+D:\VSxiangmu\C++核心编程\03struct和class的区别.cpp(16,5): warning C4101: “c1”: 未引用的局部变量
+  04函数重载注意事项.cpp
+  05将成员属性设置为私有.cpp
+  05引用的基本使用.cpp
+  06引用注意事项.cpp
+  07引用作函数参数.cpp
+  07构造函数的分类和调用.cpp
+  08引用作函数的返回值.cpp
+  08拷贝构造函数的调用时机.cpp
+  09引用的本质.cpp
+  正在编译...
+  10常量引用.cpp
+  1.5封装的意义2.cpp
+  04设计立方体类.cpp
+01函数默认参数.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+01封装的意义.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+06构造函数和析构函数.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+02封装案例.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+02函数占位参数.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+02栈区.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+03函数重载.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+03堆区.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+04new操作符.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+04new操作符.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 06构造函数和析构函数.obj 中定义
+04new操作符.obj : error LNK2005: "int * __cdecl func(void)" (?func@@YAPAHXZ) 已经在 03堆区.obj 中定义
+03struct和class的区别.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+04函数重载注意事项.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+05将成员属性设置为私有.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+05引用的基本使用.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+06引用注意事项.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+07引用作函数参数.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+07构造函数的分类和调用.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+07构造函数的分类和调用.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 06构造函数和析构函数.obj 中定义
+08引用作函数的返回值.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+08拷贝构造函数的调用时机.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+08拷贝构造函数的调用时机.obj : error LNK2005: "void __cdecl test02(void)" (?test02@@YAXXZ) 已经在 04new操作符.obj 中定义
+08拷贝构造函数的调用时机.obj : error LNK2005: "void __cdecl test01(void)" (?test01@@YAXXZ) 已经在 06构造函数和析构函数.obj 中定义
+09引用的本质.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+10常量引用.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+1.5封装的意义2.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+04设计立方体类.obj : error LNK2005: _main 已经在 01全局区.obj 中定义
+D:\VSxiangmu\C++核心编程\Release\C++核心编程.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

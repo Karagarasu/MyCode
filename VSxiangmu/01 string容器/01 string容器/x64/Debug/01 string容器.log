@@ -1,0 +1,3 @@
+﻿  string字串.cpp
+D:\VSxiangmu\01 string容器\string字串.cpp(18,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  01 string容器.vcxproj -> D:\VSxiangmu\01 string容器\x64\Debug\01 string容器.exe

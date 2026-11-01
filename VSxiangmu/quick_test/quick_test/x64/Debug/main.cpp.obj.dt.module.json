@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "quick_test\\x64\\Debug\\main.obj",
+            "outputs": [
+                "quick_test\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "quick_test\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

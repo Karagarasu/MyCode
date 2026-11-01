@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|solutionrelative:\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|solutionrelative:\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|solutionrelative:\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474AC055-8BA0-4CC8-B4B7-E7077F4D8F02}|C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B.vcxproj|solutionrelative:\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "RelativeDocumentMoniker": "\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "ToolTip": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "RelativeToolTip": "\u666E\u901A\u51FD\u6570\u548C\u51FD\u6570\u6A21\u677F\u7684\u8C03\u7528\u89C4\u5219.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T03:14:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "RelativeDocumentMoniker": "\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "ToolTip": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "RelativeToolTip": "\u6A21\u677F\u7684\u5C40\u9650\u6027.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T03:13:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp",
+              "RelativeDocumentMoniker": "\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp",
+              "ToolTip": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp",
+              "RelativeToolTip": "\u7C7B\u6A21\u677F\u4E2D\u6210\u5458\u51FD\u6570\u521B\u5EFA\u65F6\u673A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T03:13:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp",
+              "DocumentMoniker": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp",
+              "RelativeDocumentMoniker": "\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp",
+              "ToolTip": "D:\\VSxiangmu\\C\u002B\u002B\u63D0\u9AD8\u7F16\u7A0B\\\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp",
+              "RelativeToolTip": "\u7C7B\u6A21\u677F\u4E0E\u53CB\u5143.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T03:06:52.762Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

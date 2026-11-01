@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="smart_shutdown.vcxproj" Id="dd98b920-9fb2-4266-a905-b12edbaef745" />
+</Solution>

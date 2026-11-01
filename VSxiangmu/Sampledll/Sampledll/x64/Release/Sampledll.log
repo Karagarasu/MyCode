@@ -1,0 +1,26 @@
+﻿  Func.cpp
+D:\代码\VSxiangmu\Sampledll\Func.hpp(13,29): warning C4518: “__declspec(dllimport)”: 此处遇到意外的存储类或类型说明符；被忽略
+  (编译源文件“/Func.cpp”)
+  
+D:\代码\VSxiangmu\Sampledll\Func.hpp(13,29): warning C4502: “链接规范”要求使用关键字“extern”，并且该关键字必须在所有其他说明符之前
+  (编译源文件“/Func.cpp”)
+  
+D:\代码\VSxiangmu\Sampledll\Func.hpp(14,29): warning C4518: “__declspec(dllimport)”: 此处遇到意外的存储类或类型说明符；被忽略
+  (编译源文件“/Func.cpp”)
+  
+D:\代码\VSxiangmu\Sampledll\Func.hpp(14,29): warning C4502: “链接规范”要求使用关键字“extern”，并且该关键字必须在所有其他说明符之前
+  (编译源文件“/Func.cpp”)
+  
+D:\代码\VSxiangmu\Sampledll\Func.hpp(15,29): warning C4518: “__declspec(dllimport)”: 此处遇到意外的存储类或类型说明符；被忽略
+  (编译源文件“/Func.cpp”)
+  
+D:\代码\VSxiangmu\Sampledll\Func.hpp(15,29): warning C4502: “链接规范”要求使用关键字“extern”，并且该关键字必须在所有其他说明符之前
+  (编译源文件“/Func.cpp”)
+  
+    正在创建库 D:\代码\VSxiangmu\Sampledll\x64\Release\Sampledll.lib 和对象 D:\代码\VSxiangmu\Sampledll\x64\Release\Sampledll.exp
+  正在生成代码
+  3 of 4 functions (75.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Sampledll.vcxproj -> D:\代码\VSxiangmu\Sampledll\x64\Release\Sampledll.dll

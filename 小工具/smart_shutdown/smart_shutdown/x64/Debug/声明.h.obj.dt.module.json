@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "smart_shutdown\\x64\\Debug\\声明.obj",
+            "outputs": [
+                "smart_shutdown\\x64\\Debug\\声明.h.obj.dt.module.json",
+                "smart_shutdown\\x64\\Debug\\声明.h.obj.dt.d.json",
+                "smart_shutdown\\x64\\Debug\\smart_shutdown.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

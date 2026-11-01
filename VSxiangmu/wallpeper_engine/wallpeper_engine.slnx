@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wallpeper_engine.vcxproj" Id="55baefc1-ea64-46de-993d-77a2f972bdf2" />
+</Solution>

@@ -1,0 +1,4 @@
+﻿  count_if.cpp
+D:\代码\VSxiangmu\常用查找算法\count_if.cpp(23,9): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\代码\VSxiangmu\常用查找算法\count_if.cpp(56,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  常用查找算法.vcxproj -> D:\代码\VSxiangmu\常用查找算法\x64\Debug\常用查找算法.exe

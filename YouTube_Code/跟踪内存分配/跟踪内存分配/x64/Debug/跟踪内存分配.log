@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\代码\YouTube_Code\跟踪内存分配\FileName.cpp(12,40): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\代码\YouTube_Code\跟踪内存分配\FileName.cpp(17,36): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  跟踪内存分配.vcxproj -> D:\代码\YouTube_Code\跟踪内存分配\x64\Debug\跟踪内存分配.exe
